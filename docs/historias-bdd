@@ -1,0 +1,65 @@
+# Histórias de Usuário - Projeto S.O.S Escola
+
+Este documento reúne as histórias de usuário definidas para o projeto **S.O.S Escola**, escritas no padrão **Como/Quero/Para** e detalhadas com critérios de aceitação no formato **BDD (Dado/Quando/Então)**.
+
+---
+
+## HU 01 - Denúncia Anônima
+**História de Usuário**  
+Como aluno,  
+Eu gostaria de realizar uma denúncia anônima,  
+Para que eu possa relatar casos de bullying sem medo de represálias.  
+
+**Cenário 1 (positivo) – Denúncia registrada com sucesso**  
+- Dado que estou logado como aluno  
+- E selecionei a opção de denúncia anônima  
+- Quando preencho os campos obrigatórios (tipo de violência, descrição, data/local)  
+- Então o sistema deve registrar a denúncia anonimamente  
+- E não deve armazenar nenhum dado pessoal meu  
+
+**Cenário 2 (negativo) – Denúncia sem campos obrigatórios**  
+- Dado que estou logado como aluno  
+- Quando tento enviar uma denúncia sem preencher todos os campos obrigatórios  
+- Então o sistema deve exibir a mensagem “Por favor, preencha todos os campos obrigatórios”  
+- E não deve permitir o envio até a correção  
+
+---
+
+## HU 02 - [Título da História]
+**História de Usuário**  
+Como [tipo de usuário],  
+Eu gostaria de [ação desejada],  
+Para que eu possa [benefício].  
+
+**Cenário 1 (positivo)**  
+- Dado que [...]  
+- Quando [...]  
+- Então [...]  
+
+**Cenário 2 (negativo)**  
+- Dado que [...]  
+- Quando [...]  
+- Então [...]  
+
+---
+
+## HU 03 - [Título da História]
+*(mesmo formato acima)*
+
+---
+
+## HU 04 - [Título da História]
+
+---
+
+## HU 05 - [Título da História]
+
+---
+
+## HU 06 - [Título da História]
+
+---
+
+## HU 07 - [Título da História]
+
+---
