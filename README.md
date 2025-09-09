@@ -10,8 +10,8 @@ Repositório do projeto **S.O.S Escola**.
 - [Histórias em BDD](docs/historias-bdd.md)
 
 ### 🎨 Protótipo (Lo-Fi)
-- [Protótipo no Figma]([protótipos/link-figma.md)](https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/S.O.S-Escola?node-id=0-1)
-- [Apresentação em vídeo][(videos/apresentacao.md](https://drive.google.com/file/d/1OaMrHyjbxgaxI05TlfGhUkSIQZyMPNBp/view)
+- [Protótipo no Figma](https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/S.O.S-Escola?node-id=0-1)
+- [Apresentação em vídeo (Drive)](https://drive.google.com/file/d/1OaMrHyjbxgaxI05TlfGhUkSIQZyMPNBp/view)
 
 ---
 
